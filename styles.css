@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+body {
+	background: #89CFF0;
+	front-family: Georgia, serif;
+	font-size: 12pt;
+	color: #FFFFFF;
+}
+
+h1 {
+	font-family: verdana, sans-serif;
+	text-align: center;
+	color: #015249;
+}
+h2 {
+	font-family: verdana, sans-serif;
+	text-align: center;
+	color: #015249;
+}
+h3 {
+	font-family: verdana, sans-serif;
+	color: #015249;
+}
+th, td, tr {
+  background-color: #89CFF0;
+}
+table {
+	baground-color:#89CFF0;
+	border-color: #89CFF0;
+	Border-style: none;
+}
+
+th {
+	background-color: #a5a5AF;
+	text-align: left;
+}
+.bgcolor{
+	background-color:#89CFF0;
+	color: #89CFF0
+}
+a:link {
+	color: #015249;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #015249;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #FFFFFF;
+	color: #a5a5AF;
+	text-decoration: wavy underline;
+}
